@@ -1,0 +1,15 @@
+.login {
+  width: 50%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+
+}
+main {
+  width: 100%;
+}
+.boton {
+  color: white;
+}
+
+
